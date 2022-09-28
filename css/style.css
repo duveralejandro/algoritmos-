@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-image: url(https://img.freepik.com/foto-gratis/impresionante-foto-puesta-sol-cielo-colorido_181624-42146.jpg?w=1060&t=st=1662562948~exp=1662563548~hmac=e6daf60aa33415cbc85a2e8e1c98b8acd88fb38ef2dca9bfbc9d617ddfc9ab02);
+    background-size:100%;
+    margin: 200px;
+}
+
+button{
+
+    padding: 40px 90px;
+    margin: 30px 30px;
+    font-size: 20px;
+    background: #67177298;
+    color:  #faa0da;
+    border-radius: 0px;
+    border: 1px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+button:hover{
+    background:  #9500ff85;
+    padding: 30px auto;
+    border-radius: 30px;
+    color:  #6cb1ee;
+}
+
+h1{
+    color:  #bfe9ffa3;
+    font-size: 50px;
+    background-size: cover;
+}
+
+h2{
+   
+    color: #bfe9ffa3;
+}
+h1{color:#ced0ff;
+    font-size:45px ;
+    background-clip: initial;
+    background-size: contain;
+
+} 
+h1:hover{
+    transition: .5s;
+    transform:scale(1.2) ;
+}
+h2:hover{
+    transition: .5s;
+    transform:scale(1.2) ;
+
+}
